@@ -32,3 +32,5 @@ The dev server reloads whenever a file in `src/` changes.
 When the generator is run, the site will be put into `result/`.
 
 The default renders XHTML5 with `blaze-html`, and CSS3 using `clay`, but you can change this to use your favourite web DSL, or you can read in and transform files.
+
+For a more complete example website, see [owen.cafe](https://github.com/414owen/owen.cafe).
